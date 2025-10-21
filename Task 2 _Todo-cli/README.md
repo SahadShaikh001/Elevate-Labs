@@ -16,4 +16,4 @@ Tasks are saved in a text file (`tasks.txt`) for persistence.
 ### ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-cli.git
+   git clone https://github.com/SahadShaikh001/Elevate-Labs.git
