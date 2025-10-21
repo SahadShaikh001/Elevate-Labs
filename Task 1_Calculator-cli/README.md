@@ -15,4 +15,4 @@ A simple command-line calculator built in Python that supports:
 ### 🧑‍💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/SahadShaikh001/Elevate-Labs.git
